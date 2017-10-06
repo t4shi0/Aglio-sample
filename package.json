@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/viewno/Aglio-sample/issues"
   },
-  "homepage": "https://github.com/viewno/Aglio-sample#readme"
+  "homepage": "https://github.com/viewno/Aglio-sample#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-aglio": "0.0.10",
+    "gulp-ejs": "^3.0.1",
+    "gulp-rename": "^1.2.2",
+    "rimraf": "^2.6.2"
+  }
 }
